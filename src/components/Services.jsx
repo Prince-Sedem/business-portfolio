@@ -30,13 +30,13 @@ function Services() {
       title: "Tire Sales and Branding Services",
       description:
         "Custom Tire Branding & Sales – Boost your brand and sell more with branded tires that get noticed on every road.",
-      image: "/images/pexels-olly-3806252.jpg",
+      image: "/images/tire-servicing.png",
     },
     {
       title: "General Merchant",
       description:
         "Versatile trade services covering a wide range of products and goods.",
-      image: "/images/pexels-tima-miroshnichenko-6169166.jpg",
+      image: "/images/grocery.png",
     },
   ];
 
